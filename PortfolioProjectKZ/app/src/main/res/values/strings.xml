@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PortfolioProjectKZ</string>
+    <string name="russian">RU</string>
+    <string name="english">EN</string>
+    <string name="kazakh">KZ</string>
+    <string name="corp_title">Garlic Corp</string>
+    <string name="login_title">Log in to join us!</string>
+    <string name="signIn_button">Log In</string>
+    <string name="signUp_button">Sign Up</string>
+    <string name="forgot_pass">Forgot your password?</string>
+    <string name="comp_name">AllSafeInc</string>
+    <string name="our_goal">Our goal is to make you happy!</string>
+    <string name="hint_pass">password</string>
+    <string name="hint_email">some.address@gmail.com</string>
+
+    <string name="registration_title">Registration Form</string>
+    <string name="your_email">Your email:</string>
+    <string name="your_pass">Your password:</string>
+    <string name="repeat_pass">Repeat password:</string>
+    <string name="our_policy">Giving us your credentials, you agree with our policies, restrictions and rules</string>
+    <string name="registerButton">Agree with policy, and save changes</string>
+    <string name="check_input">Please, check your input</string>
+    <string name="updated_suc">Your data was succesfully updated</string>
+    <string name="updated_bad">No data was saved. Try again later!</string>
+
+</resources>
